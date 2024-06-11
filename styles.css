@@ -8,6 +8,24 @@ body {
     margin: 0;
 }
 
+.intro {
+    background-color: #e9f7fe;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.intro h2 {
+    margin-top: 0;
+}
+
+.intro ul {
+    text-align: left;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
 .container {
     text-align: center;
     background-color: #fff;
